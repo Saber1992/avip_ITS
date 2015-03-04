@@ -33,7 +33,6 @@ Year,Rate,Title,Author
 2015,,Effective Urban Traffic Monitoring by Vehicular Sensor Networks,Skipalong
 ,,,
 2011,,A Parallel Fusion Method for Heterogeneous Multi-sensor Transportation Data,Tangjia
-2005,,Adaptive Kalman Filter Based Freeway Travel time ,Tangjia
 2002,,application of probe vehicle data for real-time traffic state estimation,Tangjia
 2001,,Dynamic Estimation of Traffic States on a Freeway Using Probe Vehicle Data,Tangjia
 2010,,Estimation of freeway traffic density with loop detector and probe vehicle data,Tangjia
@@ -44,7 +43,6 @@ Year,Rate,Title,Author
 2008,,Using Signal System Data and Buses as Probe Vehicles to Define the Congested Regime on Arterials,Tangjia
 ,,A Study on Feasibility of Integrating Probe Vehicle Data Into a Traffic State Estimation Problem Using Simulated Data,Tangjia
 2002,,Traffic State Estimation using Traffic Data from Fixed Detectors and Probe Vehicles,Tangjia
-,,,
 ,,,
 2007,,Evaluation of speed estimation by floating car data within the research project Dmotion,clygirl
 2008,,How Data Fusion Techniques Can Improve Online Traffic State Estimation-DINO within DMOTION,clygirl
