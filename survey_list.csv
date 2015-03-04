@@ -5,9 +5,9 @@ Year,Rate,Title,Author
 2012,1,traffic flow estimation models using cellular phone data,ApprenticeZ
 2013,1,aggregating and sampling methods for processing GPS data streams for traffic state estimation,ApprenticeZ
 2013,,distributed particle filter for urban traffic networks using a platoon-based model,ApprenticeZ
-2013,,efficient traffic state estimation for large scale urban road networks,ApprenticeZ
-2013,,short term traffic state prediction based on temporal spatial correlation,ApprenticeZ
-2014,,Multimodel Ensemble for Freeway Traffic State Estimations,ApprenticeZ
+2013,1,efficient traffic state estimation for large scale urban road networks,ApprenticeZ
+2013,1,short term traffic state prediction based on temporal spatial correlation,ApprenticeZ
+2014,1,Multimodel Ensemble for Freeway Traffic State Estimations,ApprenticeZ
 ,,,
 2012,,A framework for neighbour links travel time estimation in an urban network,moegitree
 2014,,Applying GPS Data to Understand Travel Behavior,moegitree
