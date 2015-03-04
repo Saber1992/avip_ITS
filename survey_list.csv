@@ -4,6 +4,10 @@ Year,Rate,Title,Author
 2012,,realtime lagrangian traffic state estimator for freeways,ApprenticeZ
 2012,1,traffic flow estimation models using cellular phone data,ApprenticeZ
 2013,1,aggregating and sampling methods for processing GPS data streams for traffic state estimation,ApprenticeZ
+2013,,distributed particle filter for urban traffic networks using a platoon-based model,ApprenticeZ
+2013,,efficient traffic state estimation for large scale urban road networks,ApprenticeZ
+2013,,short term traffic state prediction based on temporal spatial correlation,ApprenticeZ
+2014,,Multimodel Ensemble for Freeway Traffic State Estimations,ApprenticeZ
 ,,,
 2012,,A framework for neighbour links travel time estimation in an urban network,moegitree
 2014,,Applying GPS Data to Understand Travel Behavior,moegitree
@@ -16,8 +20,3 @@ Year,Rate,Title,Author
 2014,,Multimodel Ensemble for Freeway Traffic State Estimations,moegitree
 2014,,Traffic Speed Estimation through Data Fusion from Heterogeneous Sources for First Response Deployment,moegitree
 2014,,Urban traffic state estimation Fusing point and zone based data,moegitree
-,,,
-,,,
-,,,
-2012,,12345,Skipalong
-30234,,234234234,Skiplaong
