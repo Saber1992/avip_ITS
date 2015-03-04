@@ -6,8 +6,8 @@ List of ITS papers
 本list主要是存放大家查找和看过的论文基本信息，以最大程度上避免看其他人筛选过的论文
 
 基本格式如下
->年份，打分，论文title<br/>
->2010，5，Traffic State Estimation using Traffic Data from Fixed Detectors and Probe Vehicles
+>年份，打分，论文title, 作者
+>2010，5，Traffic State Estimation using Traffic Data from Fixed Detectors and Probe Vehicles, ApprenticeZ
 
 打分范围1-5，根据个人的理解评价其相关程度，有利于其他人找到同样的文章时参考是否选择阅读，通常来讲，打5分表示自己选定这篇文章了，最好避免打4分。
 
