@@ -44,14 +44,15 @@ Year,Rate,Title,Author
 2002,,Traffic State Estimation using Traffic Data from Fixed Detectors and Probe Vehicles,Tangjia
 ,,,
 2007,,A SENSOR AND DATA FUSION ALGORITHM FOR ROAD GRADE ESTIMATION,clygirl
-2012,,Data Fusion Based Hybrid Approach for the Estimation of Urban Arterial Travel Time,clygirl
 2007,,Evaluation of speed estimation by floating car data within the research project Dmotion,clygirl
 2008,,How Data Fusion Techniques Can Improve Online Traffic State Estimation-DINO within DMOTION,clygirl
+2010,,Sensor Data Fusion Based Estimation of Tyre-Road Friction to Enhance Collision Avoidance,clygirl
+2008,,Travel Time Prediction Based on Fuzzy Logic Data Fusion,clygirl
+2012,,Data Fusion Based Hybrid Approach for the Estimation of Urban Arterial Travel Time,clygirl
 2013,,Improving moving jam detection performance with V2I communication,clygirl
+2013,,TRAFFIC STATE ESTIMATION METHOD USING PROBE vehicles equipped with spacing measurement,clygirl
 2014,,Measuring real-time traffic data quality based on Floating Car Data,clygirl
 2014,,Road Traffic Measurement and Related Data Fusion Methodology for Traffic Estimation,clygirl
-2010,,Sensor Data Fusion Based Estimation of Tyre-Road Friction to Enhance Collision Avoidance,clygirl
-2013,,TRAFFIC STATE ESTIMATION METHOD USING PROBE vehicles equipped with spacing measurement,clygirl
 ,,,
 2009,,Reconstruction of congested traffic patterns using traffic state detection in autonomous vehicles based on kerner's three phase traffic theory,liudiwen
 ,,,
@@ -59,4 +60,3 @@ Year,Rate,Title,Author
 2014,,Significance of sensor location in real-time traffic state estimation,imerse
 2014,,Traffic delays estimation in two-lane highway reconstruction,imerse
 2015,,Probe vehicle data sampled by time or space: Consistent travel time allocation and estimation,imerse
-
