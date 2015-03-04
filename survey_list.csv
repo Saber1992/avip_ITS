@@ -60,10 +60,11 @@ Year,Rate,Title,Author
 ,,,
 2012,3,Data Exchanges for Enhanced Traffic Reconstruction,imerse
 2014,,Significance of sensor location in real-time traffic state estimation,imerse
-2014,,Traffic delays estimation in two-lane highway reconstruction,imerse
-2015,,Probe vehicle data sampled by time or space: Consistent travel time allocation and estimation,imerse
+2014,2,Traffic delays estimation in two-lane highway reconstruction,imerse
+2015,1,Probe vehicle data sampled by time or space: Consistent travel time allocation and estimation,imerse
 ,,,
 2012,1,Localized Extended Kalman Filter for Scalable Real-Time Traffic State Estimation,ApprenticeZ
 2012,1,Vehicular Traffic Density State Estimation Based on Cumulative Road Acoustics,ApprenticeZ
 2012,2,A Theoretical Framework for Traffic Speed Estimation by Fusing Low-Resolution Probe Vehicle Data,ApprenticeZ
 2004,3,INTELLIGENT ADAPTIVE TRAFFIC FORECASTING SYSTEM USING DATA ASSIMILATION FOR USE IN TRAVELER INFORMATION SYSTEMS,ApprenticeZ
+
